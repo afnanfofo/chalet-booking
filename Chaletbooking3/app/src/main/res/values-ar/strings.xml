@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="chalet_booking" translatable="false">حجز الشاليه</string>
+    <string name="guests" translatable="false">الاشخاص</string>
+    <string name="adults" translatable="false">الكبار</string>
+    <string name="Date" translatable="false">التاريخ</string>
+    <string name="Children" translatable="false">الأطفال</string>
+    <string name="rooms" translatable="false">الغرف</string>
+    <string name="payment" translatable="false">الدفع</string>
+    <string name="details" translatable="false">التفاصيل</string>
+    <string name="elegant_rooms_come_with_wi_fi_flat_screen_tvs_and_iphone_docks_plus_sitting_areas_and_work_desks_and_bedroom_ansuites_and_add_separate_living_rooms_provide_kitchens" translatable="false">تأتي الغرف الأنيقة مع خدمة الواي فاي وأجهزة تلفزيون بشاشات مسطحة وقواعد للآيفون ، بالإضافة إلى مناطق جلوس ومكاتب عمل وأجنحة غرفة نوم وإضافة غرف معيشة منفصلة. توفير مطابخ.</string>
+    <string name="palestine_gaza" translatable="false">فلسطين ، غزة</string>
+    <string name="book_now" translatable="false">احجز الأن</string>
+    <string name="price" translatable="false">السعر</string>
+    <string name="rrgister" translatable="false">تسجيل</string>
+    <string name="login" translatable="false">تسجيل  الدخول</string>
+    <string name="log_in" translatable="false">تسجيل الدخول</string>
+    <string name="hello" translatable="false">مرحبا !!</string>
+    <string name="username" translatable="false">اسم المستخدم</string>
+    <string name="password" translatable="false">كلمة السر</string>
+    <string name="i_forget" translatable="false">نسيت</string>
+    <string name="new_user" translatable="false">مستخدم جديد؟</string>
+    <string name="rrgrster_now" translatable="false">سجل الأن</string>
+    <string name="register_by" translatable="false">تسجيل بواسطة</string>
+    <string name="login1" translatable="false">تسجيل دخول</string>
+    <string name="sign_in" translatable="false">تسجيل الدخول</string>
+    <string name="register_by1" translatable="false">تسجيل بواسطة</string>
+    <string name="rrgister1" translatable="false">تسجيل</string>
+    <string name="mobilenumber" translatable="false">رقم الجوال</string>
+    <string name="confirmpassword" translatable="false">"تأكيد كلمة السر "</string>
+    <string name="forget" translatable="false">نسيت</string>
+    <string name="password1" translatable="false">"كلمة السر "</string>
+    <string name="username1" translatable="false">اسم المستخدم</string>
+    <string name="registration" translatable="false">تسجيل</string>
+    <string name="search" translatable="false">بحث</string>
+    <string name="recomanded" translatable="false">موصى به</string>
+    <string name="chalet_name" translatable="false">اسم الشاليه</string>
+    <string name="hello_join_our_families_and_log_in" translatable="false">مرحبًا ، انضم إلى عائلاتنا وقم بتسجيل الدخول</string>
+    <string name="hello_join_our_families_and_log_in" translatable="false">مرحبًا ، انضم إلى عائلاتنا وقم بتسجيل الدخول</string>
+</resources>

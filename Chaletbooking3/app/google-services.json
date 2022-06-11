@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "809458213657",
+    "project_id": "android-firebase-project-2e685",
+    "storage_bucket": "android-firebase-project-2e685.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809458213657:android:0956ff1bb19660a6305b88",
+        "android_client_info": {
+          "package_name": "com.example.chaletbooking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809458213657-830ofoc3t8sovmvdiiei7rmp4915k5pa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW0gyZ7gZWKvD7J8OTtPLTVksWpdfnuVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809458213657-830ofoc3t8sovmvdiiei7rmp4915k5pa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809458213657:android:11aedf623eb72263305b88",
+        "android_client_info": {
+          "package_name": "com.example.firebase_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809458213657-830ofoc3t8sovmvdiiei7rmp4915k5pa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW0gyZ7gZWKvD7J8OTtPLTVksWpdfnuVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809458213657-830ofoc3t8sovmvdiiei7rmp4915k5pa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

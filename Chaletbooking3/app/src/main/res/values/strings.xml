@@ -1,0 +1,61 @@
+<resources>
+
+    <string-array name="adalt">
+        <item name="five">five</item>
+        <item name="ten">ten</item>
+        <item  name="twenty">twenty</item>
+        <item name="thirty">thirty</item>
+    </string-array>
+
+    <string-array name="Children">
+        <item name="five">five</item>
+        <item name="ten"> ten</item>
+        <item name="twenty">twenty</item>
+        <item name="thirty">thirty</item>
+    </string-array>
+
+    <string-array name="Rooms">
+        <item name="1_Room_with_kitchen">1 Room with kitchen</item>
+        <item  name="2_Room_with_kitchen" >2 Room with kitchen</item>
+        <item  name="3_Room_with_2kitchen">3 Room with 2kitchen</item>
+        <item  name="4_Room_with_2kitchen">4 Room with 2kitchen</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="chalet_booking" translatable="false">Chalet Booking</string>
+    <string name="Date" translatable="false">Date</string>
+    <string name="guests" translatable="false">Guests</string>
+    <string name="adults" translatable="false">Adults</string>
+    <string name="Children" translatable="false">Children</string>
+    <string name="rooms" translatable="false">Rooms</string>
+    <string name="payment" translatable="false">Payment</string>
+    <string name="details" translatable="false">Details</string>
+    <string name="price" translatable="false">Price</string>
+    <string name="book_now" translatable="false">Book Now</string>
+    <string name="palestine_gaza" translatable="false">Palestine , Gaza</string>
+    <string name="elegant_rooms_come_with_wi_fi_flat_screen_tvs_and_iphone_docks_plus_sitting_areas_and_work_desks_and_bedroom_ansuites_and_add_separate_living_rooms_provide_kitchens" translatable="false">Elegant rooms come with Wi-Fi, flat-screen TVs and iPhone docks, plus sitting areas and work desks and bedroom ansuites and add separate living rooms. provide kitchens.</string>
+    <string name="rrgister" translatable="false">Rrgister</string>
+    <string name="login" translatable="false">LogIn</string>
+    <string name="log_in" translatable="false">Log In</string>
+    <string name="hello" translatable="false">Hello!!</string>
+    <string name="username" translatable="false">UserName</string>
+    <string name="password" translatable="false">Password</string>
+    <string name="i_forget" translatable="false">I Forget</string>
+    <string name="new_user" translatable="false">New User?</string>
+    <string name="rrgrster_now" translatable="false">ٌRrgrster Now</string>
+    <string name="register_by" translatable="false">Register by</string>
+    <string name="login1" translatable="false">LogIn</string>
+    <string name="registration" translatable="false">Registration</string>
+    <string name="hello_join_our_families_and_log_in" translatable="false">Hello Join Our Families and Log In:</string>
+    <string name="username1" translatable="false">UserName</string>
+    <string name="password1" translatable="false">Password</string>
+    <string name="forget" translatable="false">I Forget</string>
+    <string name="confirmpassword" translatable="false">confirmpassword</string>
+    <string name="mobilenumber" translatable="false">MobileNumber</string>
+    <string name="rrgister1" translatable="false">Rrgister</string>
+    <string name="register_by1" translatable="false">register_by</string>
+    <string name="sign_in" translatable="false">Sign In</string>
+    <string name="search" translatable="false">Search</string>
+    <string name="recomanded" translatable="false">Recomanded</string>
+    <string name="chalet_name" translatable="false">Chalet Name</string>
+</resources>
